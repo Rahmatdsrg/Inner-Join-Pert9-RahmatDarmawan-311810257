@@ -1,6 +1,4 @@
 # Inner-Join-Pert9-RahmatDarmawan_31181010257
-# Tampilan Designer Database
-![image](https://user-images.githubusercontent.com/46749500/120513437-7eb38f00-c3f6-11eb-80b8-290b40a65806.png)
 # Perancangan Database 
 ![image](https://user-images.githubusercontent.com/46749500/120514093-216c0d80-c3f7-11eb-9acf-8caaef7afd8c.png)
 ![image](https://user-images.githubusercontent.com/46749500/120514233-406a9f80-c3f7-11eb-9b2d-cc047c36fc72.png)
